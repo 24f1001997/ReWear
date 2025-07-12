@@ -81,8 +81,38 @@ We believe fashion can be circular. By embracing reuse and encouraging mindful c
 
 ---
 
+## 🤝 Get Involved
 
-👉 **[Start Swapping Now!](#)**
+We welcome developers, designers, and sustainability enthusiasts!  
+Contribute ideas, improve features, or help us grow the ReWear community.
 
 ---
+
+## 📝 License
+
+This project is licensed under the [MIT License](LICENSE).
+
+---
+
+## 💌 Team
+
+### Team Leader
+
+- **Name:** Pranav Reddy Gankidi
+- **Email:** gankidipranavreddy@gmail.com
+
+### Participant 1
+
+- **Name:** Keshav Arun Anumolu
+- **Email:** keshavanumolu88874@gmail.com
+
+### Participant 2
+
+- **Name:** Radha Krishna
+- **Email:** kradhakrishna1122@gmail.com
+
+---
+
+## 🚀 Ready to give your clothes a second chance?
+
 
