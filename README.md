@@ -167,3 +167,18 @@ Use Grok to parse logs, monitor patterns, or build custom log analyzers.
 
 🌱 Our Mission
 We believe fashion can be circular. By embracing reuse and encouraging mindful consumption, we make fashion fun, affordable, and eco-friendly — one swap at a time. 🌍✨
+💌 Team
+👨‍💼 Team Leader
+Name: Pranav Reddy Gankidi
+
+Email: gankidipranavreddy@gmail.com
+
+👨‍💻 Participant 1
+Name: Keshav Arun Anumolu
+
+Email: keshavanumolu88874@gmail.com
+
+👨‍💻 Participant 2
+Name: Radha Krishna
+
+Email: kradhakrishna1122@gmail.com
