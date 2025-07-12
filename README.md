@@ -177,7 +177,6 @@ We believe fashion can be circular. By embracing reuse and encouraging mindful c
 We welcome developers, designers, and sustainability enthusiasts!
 Contribute ideas, improve features, or help us grow the ReWear community.
 ------------------------------------
-
 ---
 
 ## 💌 Team
