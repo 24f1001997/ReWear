@@ -153,15 +153,11 @@ If you want to expose your local backend server to the internet (e.g., for testi
 Install ngrok globally:
 
 ```bash
-bash
-Copy
-Edit
+
 npm install -g ngrok
 Start ngrok on backend port (default 5000):
 
-bash
-Copy
-Edit
+
 ngrok http 5000
 You’ll get a public URL (e.g., https://abc123.ngrok.io) which you can share or use in your frontend for API calls during testing.
 ```
