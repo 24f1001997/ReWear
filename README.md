@@ -80,10 +80,10 @@
 ```bash
 git clone <your-repo-url>
 cd <your-project-folder>
+```
 📦 Install Backend Dependencies
-bash
-Copy
-Edit
+
+```bash
 cd backend
 npm install
 ```
@@ -109,18 +109,12 @@ ngrok
 ⚡ Start Backend Server
 
 ```bash
-bash
-Copy
-Edit
 npm start
 👉 Runs at http://localhost:5000 (or your configured port).
 ```
 💻 Install Frontend Dependencies
 
 ```bash
-bash
-Copy
-Edit
 cd ../frontend-final
 npm install
 ```
@@ -150,9 +144,6 @@ vite
 💥 Run Frontend
 
 ```bash
-bash
-Copy
-Edit
 npm run dev
 👉 Runs at http://localhost:5173 (default Vite port).
 ```
