@@ -25,7 +25,7 @@
 
 ### 🏠 Landing Page
 
-✨ Beautifully designed intro to ReWear's mission  
+✨ Beautifully designed introduction to ReWear's mission  
 🚀 Calls-to-action: **Start Swapping**, **Browse Items**, **List an Item**  
 🌟 Featured items carousel showcasing trending uploads
 
@@ -86,9 +86,10 @@ Copy
 Edit
 cd backend
 npm install
-npm install grok-js
+```
 Backend Dependencies:
 
+```bash
 express
 
 mongoose
@@ -103,24 +104,29 @@ cors
 
 multer
 
-grok-js
-
+ngrok
+```
 ⚡ Start Backend Server
+
+```bash
 bash
 Copy
 Edit
 npm start
 👉 Runs at http://localhost:5000 (or your configured port).
-
+```
 💻 Install Frontend Dependencies
+
+```bash
 bash
 Copy
 Edit
 cd ../frontend-final
 npm install
-npm install grok-js
+```
 Frontend Dependencies:
 
+```bash
 react
 
 react-dom
@@ -140,33 +146,37 @@ postcss
 autoprefixer
 
 vite
-
-grok-js
-
+```
 💥 Run Frontend
+
+```bash
 bash
 Copy
 Edit
 npm run dev
 👉 Runs at http://localhost:5173 (default Vite port).
+```
+🌐 Using ngrok
+If you want to expose your local backend server to the internet (e.g., for testing webhooks or remote frontend integration), you can use ngrok.
 
-💬 Using Grok
-Backend (Node.js):
+Install ngrok globally:
 
-js
+```bash
+bash
 Copy
 Edit
-const grok = require('grok-js');
-Frontend (React):
+npm install -g ngrok
+Start ngrok on backend port (default 5000):
 
-js
+bash
 Copy
 Edit
-import grok from 'grok-js';
-Use Grok to parse logs, monitor patterns, or build custom log analyzers.
-
+ngrok http 5000
+You’ll get a public URL (e.g., https://abc123.ngrok.io) which you can share or use in your frontend for API calls during testing.
+```
 🌱 Our Mission
 We believe fashion can be circular. By embracing reuse and encouraging mindful consumption, we make fashion fun, affordable, and eco-friendly — one swap at a time. 🌍✨
+
 💌 Team
 👨‍💼 Team Leader
 Name: Pranav Reddy Gankidi
@@ -182,3 +192,4 @@ Email: keshavanumolu88874@gmail.com
 Name: Radha Krishna
 
 Email: kradhakrishna1122@gmail.com
+
