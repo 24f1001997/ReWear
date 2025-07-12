@@ -1,50 +1,58 @@
-# ReWear – Community Clothing Exchange
+🌿 ReWear – Community Clothing Exchange
+💡 Overview
+ReWear is a web-based platform designed to promote sustainable fashion and reduce textile waste. By enabling users to exchange unused clothing through direct swaps or a point-based redemption system, ReWear empowers individuals to give their garments a second life — encouraging reuse instead of disposal.
 
-## Overview
+🚀 Features
+👤 User Authentication
+Secure email and password-based signup and login
 
-Develop ReWear, a web-based platform that enables users to exchange unused clothing through direct swaps or a point-based redemption system. The goal is to promote sustainable fashion and reduce textile waste by encouraging users to reuse wearable garments instead of discarding them.
+Personalized user profiles
 
-## Features
+🏠 Landing Page
+Introduction to the platform and its mission
 
-### User Authentication
-- Email/password signup and login
+Calls-to-action: Start Swapping, Browse Items, List an Item
 
-### Landing Page
-- Platform introduction
-- Calls-to-action: "Start Swapping", "Browse Items", "List an Item"
-- Featured items carousel
+Featured items carousel showcasing top or new uploads
 
-### User Dashboard
-- Profile details and points balance
-- Uploaded items overview
-- Ongoing and completed swaps list
+🗂️ User Dashboard
+View and edit profile details
 
-### Item Detail Page
-- Image gallery and full item description
-- Uploader info
-- Options: "Swap Request" or "Redeem via Points"
-- Item availability status
+Points balance and swap history
 
-### Add New Item Page
-- Upload images
-- Enter title, description, category, type, size, condition, and tags
-- Submit to list item
+Overview of uploaded items
 
-### Admin Role
-- Moderate and approve/reject item listings
-- Remove inappropriate or spam items
-- Lightweight admin panel for oversight
+List of ongoing and completed swaps
 
-## Team Members
+👕 Item Detail Page
+High-quality image gallery
 
-### Person 1 (TL)
-- **Name:** _Pranav_
-- **Email:** _gankidipranavreddy@gmail.com_
+Comprehensive item description (category, size, condition, etc.)
 
-### Person 2
-- **Name:** _Radha Krishna_
-- **Email:** _kradhakrishna1122@gmail.com_
+Information about the uploader
 
-### Person 3
-- **Name:** _Keshav Arun Anumolu_
-- **Email:** _keshavanumolu88874@gmail.com_
+Options to Request Swap or Redeem via Points
+
+Real-time item availability status
+
+➕ Add New Item
+Upload multiple images
+
+Enter item details: title, description, category, type, size, condition, and tags
+
+Submit to list and make available to the community
+
+🛡️ Admin Panel
+Moderate and approve or reject new item listings
+
+Remove inappropriate or spam content
+
+Lightweight, easy-to-use interface for overall platform management
+
+🌱 Key Goals
+Encourage sustainable fashion practices
+
+Build a community around clothing reuse
+
+Minimize textile waste by extending garment life cycles
+
