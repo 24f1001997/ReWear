@@ -1,3 +1,88 @@
+# ✨ ReWear — Community Clothing Exchange Platform
+
+## ♻️ Rethink. Reuse. ReWear.
+
+**ReWear** is a web-based platform reimagining how we engage with fashion. Instead of discarding unused clothes, ReWear empowers you to **swap or redeem garments**, giving them a new life while reducing textile waste and building a vibrant community of eco-conscious fashion enthusiasts.
+
+---
+
+## 🚀 Why ReWear?
+
+- 🌿 **Reduce Waste** — Extend the life of your clothes and minimize landfill impact.
+- 🤝 **Connect with Community** — Join a growing network of users who believe in sustainable living.
+- 💸 **Refresh Your Style** — Get new pieces for your wardrobe without breaking the bank.
+
+---
+
+## 💎 Features
+
+### 👤 User Authentication
+
+- Secure email/password signup and login.
+- Personalized profile with avatar, bio, and points balance.
+
+---
+
+### 🏡 Landing Page
+
+- Eye-catching introduction to ReWear’s mission.
+- Calls-to-action: **Start Swapping**, **Browse Items**, **List an Item**.
+- Featured items carousel showcasing trending or highlighted pieces.
+
+---
+
+### 🧑‍💻 User Dashboard
+
+- View and update profile details.
+- Check points balance.
+- Overview of uploaded items.
+- Manage ongoing and completed swaps.
+- Track all swap requests easily.
+
+---
+
+### 👗 Item Detail Page
+
+- High-quality image gallery.
+- Comprehensive descriptions: category, type, size, condition, tags.
+- View uploader profile and swap history.
+- Options to **Request Swap** or **Redeem via Points**.
+- Real-time item availability status.
+
+---
+
+### ➕ List a New Item
+
+- Upload multiple images.
+- Add detailed information: title, description, category, type, size, condition, and tags.
+- Submit to instantly share with the community.
+
+---
+
+### 🛡️ Admin Panel
+
+- Approve or reject new item listings.
+- Remove inappropriate or spam items.
+- Lightweight, intuitive moderation interface.
+
+---
+
+## ⚙️ Getting Started
+
+### 🛠️ Prerequisites
+
+- Node.js (v16 or above recommended)
+- npm (Node package manager)
+
+---
+
+### 🚩 Clone the Repository
+
+```bash
+git clone <your-repo-url>
+cd <your-project-folder>
+
+
 📦 Install Backend Dependencies
 bash
 Copy
